@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bankofr/static/css/main.01e685fb.css",
+    "main.js": "/bankofr/static/js/main.780534d0.js",
+    "static/js/488.b3704269.chunk.js": "/bankofr/static/js/488.b3704269.chunk.js",
+    "index.html": "/bankofr/index.html",
+    "main.01e685fb.css.map": "/bankofr/static/css/main.01e685fb.css.map",
+    "main.780534d0.js.map": "/bankofr/static/js/main.780534d0.js.map",
+    "488.b3704269.chunk.js.map": "/bankofr/static/js/488.b3704269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e685fb.css",
+    "static/js/main.780534d0.js"
+  ]
+}
